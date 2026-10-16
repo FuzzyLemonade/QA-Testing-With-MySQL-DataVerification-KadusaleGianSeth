@@ -1,1 +1,0 @@
-# QA-Testing-With-MySQL-DataVerification-KadusaleGianSeth
